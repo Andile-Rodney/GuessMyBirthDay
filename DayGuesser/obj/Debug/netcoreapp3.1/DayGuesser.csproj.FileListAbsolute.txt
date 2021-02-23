@@ -1,0 +1,13 @@
+C:\Users\Folio\Desktop\DayGuesser\bin\Debug\netcoreapp3.1\DayGuesser.exe
+C:\Users\Folio\Desktop\DayGuesser\bin\Debug\netcoreapp3.1\DayGuesser.deps.json
+C:\Users\Folio\Desktop\DayGuesser\bin\Debug\netcoreapp3.1\DayGuesser.runtimeconfig.json
+C:\Users\Folio\Desktop\DayGuesser\bin\Debug\netcoreapp3.1\DayGuesser.runtimeconfig.dev.json
+C:\Users\Folio\Desktop\DayGuesser\bin\Debug\netcoreapp3.1\DayGuesser.dll
+C:\Users\Folio\Desktop\DayGuesser\bin\Debug\netcoreapp3.1\DayGuesser.pdb
+C:\Users\Folio\Desktop\DayGuesser\obj\Debug\netcoreapp3.1\DayGuesser.csprojAssemblyReference.cache
+C:\Users\Folio\Desktop\DayGuesser\obj\Debug\netcoreapp3.1\DayGuesser.AssemblyInfoInputs.cache
+C:\Users\Folio\Desktop\DayGuesser\obj\Debug\netcoreapp3.1\DayGuesser.AssemblyInfo.cs
+C:\Users\Folio\Desktop\DayGuesser\obj\Debug\netcoreapp3.1\DayGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Folio\Desktop\DayGuesser\obj\Debug\netcoreapp3.1\DayGuesser.dll
+C:\Users\Folio\Desktop\DayGuesser\obj\Debug\netcoreapp3.1\DayGuesser.pdb
+C:\Users\Folio\Desktop\DayGuesser\obj\Debug\netcoreapp3.1\DayGuesser.genruntimeconfig.cache
