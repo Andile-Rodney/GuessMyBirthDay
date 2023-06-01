@@ -5,10 +5,9 @@
 ##ToDO
 1. to go over the code and try to write the same app using the java skills
 2. think on ideas for the ui.
-  ..*must be simple as possible.
-  ..*think newspaper.
-  ..*cartoon artsy type.
-  ..*search on YouTube for the cartoons referring to.
-  
- 3. add a url to be played online for free
+3. must be simple as possible.
+4. think newspaper.
+5. cartoon artsy type.
+6. search on YouTube for the cartoons referring to.
+7. add a url to be played online for free
 
