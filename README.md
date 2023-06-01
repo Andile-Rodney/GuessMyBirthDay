@@ -9,4 +9,6 @@
   ..*think newspaper.
   ..*cartoon artsy type.
   ..*search on YouTube for the cartoons referring to.
+  
+ 3. add a url to be played online for free
 
